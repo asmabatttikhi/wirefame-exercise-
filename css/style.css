@@ -2,10 +2,7 @@
     box-sizing: border-box;
 }
 
-body{
-    font-family: Arial;
-    background-color: white;
-}
+
 main{
     
     text-align: center;
@@ -14,7 +11,7 @@ main{
     
 }
 header  {
-background-color:rgb(46, 46, 46);
+background-color:rgb(70, 70, 70);
 text-align: center;
 padding: 10px;
 }
@@ -34,7 +31,7 @@ padding: 10px;
  
 
 a{
-color:rgb(129, 126, 126);
+color:whitesmoke;
 text-decoration: none;  
 }
 
