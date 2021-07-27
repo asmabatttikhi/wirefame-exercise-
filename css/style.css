@@ -86,6 +86,7 @@ margin-bottom: 15px;
 
 #par{
     height: 300px;
+    width: 600px;
     font-style: italic;
     overflow-y:scroll ;
 }
